@@ -4,7 +4,7 @@ pub fn mul(left: u64, right: u64) -> u64 {
 
 #[cfg(feature = "lol")]
 pub fn div(left: u64, right: u64) -> u64 {
-    leflt / right
+    left / right
 }
 
 fn main() {
